@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+}
+.item img{
+    width: 205px;
+
+}
+.item{
+    
+    border: 1px solid white;
+}
+
+.item .info-title{
+    
+    font-style: italic;
+    display: inline-block;
+    
+    
+}
+
+.item .info-value {
+    
+    font-weight: 500;
+    
+}
+
+.item .col-5{
+    border-left: 1px solid slategray;
+    background-color: beige;
+    
+}
+
+.item .col-12{
+    border-top: 1px solid whitesmoke;
+    
+}
+
